@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "sass/mail.css",
+	"sources": [
+		"sass/mail.scss"
+	],
+	"sourcesContent": [
+		".about {\r\n    text-align: center;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,MAAO;CACtB",
+	"names": []
+}
